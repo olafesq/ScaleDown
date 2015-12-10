@@ -11,9 +11,9 @@ Usage:
 
 Installation:
 ============
-* 1. Install Imagemagick for win: http://www.imagemagick.org/script/binary-releases.php
+* 1. Install Imagemagick for win: http://www.imagemagick.org/script/binary-releases.php and find the file "convert" in its installation folder.
    (Imagemagick is a light weight commandline image manipulation program, with many additional functions.)
-* 2. Save scale_down.bat file on your PC
+* 2. Save scale_down.bat file on your PC and modify it to have the correct full path to the Imagemagick convert file.
 * 3. Open regedit and find HKEY_CLASSES_ROOT\SystemFileAssociations\image\shell
 * 4. Add new key under shell: "Scale down"
 * 5. Add new key under Scale down: command
