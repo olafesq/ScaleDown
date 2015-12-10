@@ -1,5 +1,6 @@
 :: Batch file to convert image file to a smaller jpg file with ImageMagick
-:: This ensure that comment convert is define with path and not confused with other convert.exe or simlilar stuff
+
+:: This ensures that command convert is defined with full path and not confused with other convert.exe or simlilar stuff
   SETLOCAL EnableDelayedExpansion 
   SET IMCONV="C:\Programs\ImageMagick-6.8.9-Q16\convert.exe"
   
