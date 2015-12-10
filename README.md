@@ -20,4 +20,4 @@ Usage:
 =====
 * Select any image type you want to scale down.  
 * Right click on the image file and from the menu select Scale down. 
-* New image name_small.jpg will be generated and saved in the same folder as _small.jpg. Original image will be untouched. 
+* New image name_small.jpg will be generated and saved in the same folder. Original image will be untouched. 
