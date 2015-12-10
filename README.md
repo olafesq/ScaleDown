@@ -3,12 +3,6 @@ Windows batch file to add right click mouse context menu option to scale down an
 
 Author: Olaf
 
-Usage:
-=====
-* Select any image type you want to sale down and save in the same folder as _small.jpg. 
-* Right click on the image file and from the menu click Scale down. 
-* New image name_small.jpg will be generated, original image will be untouched. 
-
 Installation:
 ============
 * 1. Install Imagemagick for win: http://www.imagemagick.org/script/binary-releases.php and find the file "convert" in its installation folder.
@@ -20,3 +14,9 @@ Installation:
 * 6. Double-click on command default value and in Value data add the full path to the batch file + "%1". 
    This will look something like this: "C:\Programs\Scripts\scale_down.bat" "%1"
 * DONE
+* 
+Usage:
+=====
+* Select any image type you want to sale down and save in the same folder as _small.jpg. 
+* Right click on the image file and from the menu click Scale down. 
+* New image name_small.jpg will be generated, original image will be untouched. 
