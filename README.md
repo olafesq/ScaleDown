@@ -19,4 +19,4 @@ Installation:
 * 5. Add new key under Scale down: command
 * 6. Double-click on command default value and in Value data add the full path to the batch file + "%1". 
    This will look something like this: "C:\Programs\Scripts\scale_down.bat" "%1"
-
+* DONE
