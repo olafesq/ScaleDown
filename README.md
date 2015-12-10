@@ -18,6 +18,6 @@ Installation:
 
 Usage:
 =====
-* Select any image type you want to sale down and save in the same folder as _small.jpg. 
-* Right click on the image file and from the menu click Scale down. 
+* Select any image type you want to scale down and save in the same folder as _small.jpg. 
+* Right click on the image file and from the menu select Scale down. 
 * New image name_small.jpg will be generated, original image will be untouched. 
