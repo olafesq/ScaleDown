@@ -1,6 +1,10 @@
 # ScaleDown
-Windows batch file to add explorer right click mouse option to scale down any selected image file to 800x600pixels.
+Windows batch file to add right click mouse context menu option to scale down any selected image file to 800x600pixels.
+Author:Olaf
 
+Usage: Select any image type you want to sale down and save in the same folder as _small.jpg. Right click on the image file on from the menu click Scale down. New image name_small.jpg will be generated, original image will be untouched. 
+
+Installation:
 1. Install Imagemagick. http://www.imagemagick.org/script/binary-releases.php
 2. Save scale_down.bat file on your PC
 3. Open regedit and find HKEY_CLASSES_ROOT\SystemFileAssociations\image\shell
