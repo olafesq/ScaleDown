@@ -1,7 +1,7 @@
 # ScaleDown batch file
 Windows batch file to add right click mouse context menu option to scale down any selected image file to 800x600pixels.
 
-Author: Olaf
+Author: Olafesq
 
 Installation:
 ============
