@@ -15,6 +15,7 @@ Installation:
    This will look something like this: "C:\Programs\Scripts\scale_down.bat" "%1"
 * DONE
 * 
+
 Usage:
 =====
 * Select any image type you want to sale down and save in the same folder as _small.jpg. 
